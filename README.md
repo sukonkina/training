@@ -16,6 +16,9 @@ In this training I learnt:
 
  usage of RSYNC and its options for keeping file folders and directories synchronized
 
- LOGGIN 
+ 
+ to build a recursive hash of files in directory tree in hashdeep format: hashdeep.py
+
+ to create a logging file for storing the calculated hashes: example.log 
 
  to start the project in Version Control and operate with the files (write, update). 
